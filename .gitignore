@@ -1,0 +1,5 @@
+# Python
+__pycache__/
+
+# Generated verification WAV files from wav2adpcm.py
+*convert_result.wav
